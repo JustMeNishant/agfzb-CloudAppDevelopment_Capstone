@@ -1,10 +1,10 @@
 applications:
-  - name: djangoapp
+  - name: djangoappNishant
     routes:
       - route: nishabhayu.us-south.cf.appdomain.cloud
     memory: 128M
     buildpack: python_buildpack
-  - name: djangoapp-nginx
+  - name: Nishantdjangoapp
     routes:
       - route: nishabhayu.us-south.cf.appdomain.cloud/static
     memory: 128M
