@@ -1,3 +1,3 @@
 # IBM Cloud App Development Capstone
 
-https://burgapp.mybluemix.net/djangoapp/
+http://nishabhayu.us-south.cf.appdomain.cloud/djangoapp/
